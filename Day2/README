@@ -1,0 +1,12 @@
+📋 Lab Overview
+
+This lab focuses on physically connecting a multi-tier network topology using the appropriate cable types.
+You are given a pre-built logical diagram with labeled links between routers, switches, and end devices, and must wire them correctly — without relying on Packet Tracer's Auto MDI-X feature.
+
+
+🎯 Objectives
+
+Connect all network devices according to the labeled topology
+Select the correct cable type for each link (straight-through, crossover, fiber)
+Understand when to use single-mode vs. multimode fiber based on distance
+Practice cable selection as if Auto MDI-X is disabled
