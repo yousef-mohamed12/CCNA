@@ -1,1 +1,1 @@
-
+This lab demonstrates the configuration and verification of IPv4 addresses across three interconnected subnets (15.0.0.0/8, 182.98.0.0/16, and 201.191.20.0/24) using Cisco routers (R1, R2, R3) and switches (SW1, SW2, SW3). Students will configure appropriate IP addresses on router interfaces, enable interfaces, verify connectivity using the 'show' command, and test end-to-end communication between PCs in different subnets to understand routing and subnet communication.
